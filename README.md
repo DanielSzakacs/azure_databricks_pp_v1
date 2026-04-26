@@ -1,4 +1,4 @@
-# 🌍 Global Earthquake Data Pipeline & Analytics Dashboard
+# Global Earthquake Data Pipeline & Analytics Dashboard
 
 This project demonstrates an end-to-end data engineering pipeline built with **Azure Databricks** and **Azure Data Lake Storage Gen2**, using public earthquake data from the **USGS Earthquake API**.
 
